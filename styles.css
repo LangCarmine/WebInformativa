@@ -154,6 +154,8 @@
 footer div{
        max-width:33%;
        display:flex;
+                   justify-content: space-between;
+
 }
 
 h1, h2{
