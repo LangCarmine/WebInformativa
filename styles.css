@@ -153,6 +153,7 @@
 
 footer div{
        max-width:33%;
+       display:flex;
 }
 
 h1, h2{
