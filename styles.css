@@ -147,12 +147,12 @@
             color: #fc9193;
         }
 
-        h2, p, h3, a, button, input {
+        p, h3, a, button, input {
             font-family: "Caveat", cursive;
         }
 
 
-h1 {
+h1, h2{
             font-family: "M PLUS Rounded 1c", sans-serif;
   font-weight: 400;
   font-style: normal;
